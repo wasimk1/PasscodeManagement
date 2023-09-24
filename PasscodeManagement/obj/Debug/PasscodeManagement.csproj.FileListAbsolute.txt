@@ -1,0 +1,13 @@
+E:\PROJECTS\C#\PasscodeManagement\bin\Debug\PasscodeManagement.exe.config
+E:\PROJECTS\C#\PasscodeManagement\bin\Debug\PasscodeManagement.exe
+E:\PROJECTS\C#\PasscodeManagement\bin\Debug\PasscodeManagement.pdb
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.csproj.AssemblyReference.cache
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.Form1.resources
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.Properties.Resources.resources
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.UserRegistration.resources
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.csproj.GenerateResource.cache
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.csproj.CoreCompileInputs.cache
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.exe
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.pdb
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.GetPasscodeForm.resources
+E:\PROJECTS\C#\PasscodeManagement\obj\Debug\PasscodeManagement.f.resources
