@@ -28,7 +28,7 @@ namespace PasscodeManagement
 
         private void ChooseMenu_Load(object sender, EventArgs e)
         {
-            
+            this.FormBorderStyle = FormBorderStyle.FixedToolWindow;         
             //textBox1.Text = f1.txtlogemail.txt;
         }
 
@@ -505,6 +505,7 @@ namespace PasscodeManagement
             }
 
         }
+
 
         private void linkLabel7_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {

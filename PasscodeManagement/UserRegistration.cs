@@ -27,6 +27,7 @@ namespace PasscodeManagement
 
         private void UserRegistration_Load(object sender, EventArgs e)
         {
+            this.FormBorderStyle = FormBorderStyle.FixedToolWindow;
             checkuserregfolder();
             //disablebuttoncontrol();
         }

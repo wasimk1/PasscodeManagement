@@ -59,8 +59,8 @@ namespace PasscodeManagement
             this.radioButton3.AutoSize = true;
             this.radioButton3.Location = new System.Drawing.Point(179, 11);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(111, 21);
-            this.radioButton3.TabIndex = 19;
+            this.radioButton3.Size = new System.Drawing.Size(106, 20);
+            this.radioButton3.TabIndex = 1;
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Transgender";
             this.radioButton3.UseVisualStyleBackColor = true;
@@ -71,8 +71,8 @@ namespace PasscodeManagement
             this.radioButton2.AutoSize = true;
             this.radioButton2.Location = new System.Drawing.Point(83, 12);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(75, 21);
-            this.radioButton2.TabIndex = 18;
+            this.radioButton2.Size = new System.Drawing.Size(74, 20);
+            this.radioButton2.TabIndex = 1;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Female";
             this.radioButton2.UseVisualStyleBackColor = true;
@@ -83,8 +83,8 @@ namespace PasscodeManagement
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(6, 11);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(59, 21);
-            this.radioButton1.TabIndex = 17;
+            this.radioButton1.Size = new System.Drawing.Size(58, 20);
+            this.radioButton1.TabIndex = 0;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Male";
             this.radioButton1.UseVisualStyleBackColor = true;
@@ -95,35 +95,35 @@ namespace PasscodeManagement
             this.numcontactno.Location = new System.Drawing.Point(229, 210);
             this.numcontactno.Name = "numcontactno";
             this.numcontactno.Size = new System.Drawing.Size(184, 22);
-            this.numcontactno.TabIndex = 16;
+            this.numcontactno.TabIndex = 5;
             // 
             // txtpassword
             // 
             this.txtpassword.Location = new System.Drawing.Point(228, 112);
             this.txtpassword.Name = "txtpassword";
             this.txtpassword.Size = new System.Drawing.Size(185, 22);
-            this.txtpassword.TabIndex = 15;
+            this.txtpassword.TabIndex = 2;
             // 
             // txtemailid
             // 
             this.txtemailid.Location = new System.Drawing.Point(228, 84);
             this.txtemailid.Name = "txtemailid";
             this.txtemailid.Size = new System.Drawing.Size(185, 22);
-            this.txtemailid.TabIndex = 14;
+            this.txtemailid.TabIndex = 1;
             // 
             // txtusername
             // 
             this.txtusername.Location = new System.Drawing.Point(228, 55);
             this.txtusername.Name = "txtusername";
             this.txtusername.Size = new System.Drawing.Size(185, 22);
-            this.txtusername.TabIndex = 13;
+            this.txtusername.TabIndex = 0;
             // 
             // btnreg
             // 
             this.btnreg.Location = new System.Drawing.Point(228, 238);
             this.btnreg.Name = "btnreg";
             this.btnreg.Size = new System.Drawing.Size(185, 27);
-            this.btnreg.TabIndex = 12;
+            this.btnreg.TabIndex = 6;
             this.btnreg.Text = "Submit";
             this.btnreg.UseVisualStyleBackColor = true;
             this.btnreg.Click += new System.EventHandler(this.button2_Click);
@@ -134,7 +134,7 @@ namespace PasscodeManagement
             this.txtdob.Location = new System.Drawing.Point(229, 182);
             this.txtdob.Name = "txtdob";
             this.txtdob.Size = new System.Drawing.Size(279, 22);
-            this.txtdob.TabIndex = 20;
+            this.txtdob.TabIndex = 4;
             this.txtdob.Validating += new System.ComponentModel.CancelEventHandler(this.dateTimePicker1_Validating);
             // 
             // label1
@@ -142,8 +142,8 @@ namespace PasscodeManagement
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(152, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(245, 17);
-            this.label1.TabIndex = 21;
+            this.label1.Size = new System.Drawing.Size(233, 16);
+            this.label1.TabIndex = 15;
             this.label1.Text = "Passcode Management - Registration";
             // 
             // groupBox1
@@ -155,7 +155,7 @@ namespace PasscodeManagement
             this.groupBox1.Location = new System.Drawing.Point(228, 136);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(292, 40);
-            this.groupBox1.TabIndex = 22;
+            this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
             // 
             // label2
@@ -163,8 +163,8 @@ namespace PasscodeManagement
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(131, 60);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(65, 17);
-            this.label2.TabIndex = 23;
+            this.label2.Size = new System.Drawing.Size(62, 16);
+            this.label2.TabIndex = 8;
             this.label2.Text = "Fullname";
             // 
             // label3
@@ -172,8 +172,8 @@ namespace PasscodeManagement
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(131, 87);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(59, 17);
-            this.label3.TabIndex = 24;
+            this.label3.Size = new System.Drawing.Size(57, 16);
+            this.label3.TabIndex = 9;
             this.label3.Text = "Email ID";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
@@ -182,8 +182,8 @@ namespace PasscodeManagement
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(131, 115);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(70, 17);
-            this.label4.TabIndex = 25;
+            this.label4.Size = new System.Drawing.Size(69, 16);
+            this.label4.TabIndex = 10;
             this.label4.Text = "Passcode";
             // 
             // label5
@@ -191,8 +191,8 @@ namespace PasscodeManagement
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(131, 150);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(56, 17);
-            this.label5.TabIndex = 26;
+            this.label5.Size = new System.Drawing.Size(52, 16);
+            this.label5.TabIndex = 11;
             this.label5.Text = "Gender";
             // 
             // label6
@@ -200,8 +200,8 @@ namespace PasscodeManagement
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(131, 187);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(87, 17);
-            this.label6.TabIndex = 27;
+            this.label6.Size = new System.Drawing.Size(79, 16);
+            this.label6.TabIndex = 12;
             this.label6.Text = "Date of Birth";
             // 
             // label7
@@ -209,8 +209,8 @@ namespace PasscodeManagement
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(131, 213);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(56, 17);
-            this.label7.TabIndex = 28;
+            this.label7.Size = new System.Drawing.Size(52, 16);
+            this.label7.TabIndex = 13;
             this.label7.Text = "Contact";
             // 
             // label8
@@ -218,8 +218,8 @@ namespace PasscodeManagement
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(131, 313);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(173, 17);
-            this.label8.TabIndex = 29;
+            this.label8.Size = new System.Drawing.Size(162, 16);
+            this.label8.TabIndex = 14;
             this.label8.Text = "Already have an account?";
             // 
             // linkLabel1
@@ -227,8 +227,8 @@ namespace PasscodeManagement
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Location = new System.Drawing.Point(302, 313);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(84, 17);
-            this.linkLabel1.TabIndex = 30;
+            this.linkLabel1.Size = new System.Drawing.Size(81, 16);
+            this.linkLabel1.TabIndex = 7;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "please login";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);

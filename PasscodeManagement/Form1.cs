@@ -68,8 +68,9 @@ namespace PasscodeManagement
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
-        }
+            this.FormBorderStyle = FormBorderStyle.FixedToolWindow;
+                
+                }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {

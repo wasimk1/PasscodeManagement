@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROJECTS\\C#\\PasscodeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|e:\\projects\\c#\\passcodemanagement\\choosemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|solutionrelative:choosemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|e:\\projects\\c#\\passcodemanagement\\choosemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|solutionrelative:choosemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|e:\\projects\\c#\\passcodemanagement\\getpasscodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|solutionrelative:getpasscodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|e:\\projects\\c#\\passcodemanagement\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|solutionrelative:userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|e:\\projects\\c#\\passcodemanagement\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|solutionrelative:userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|e:\\projects\\c#\\passcodemanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|e:\\projects\\c#\\passcodemanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAC7453-BF8D-4B92-8AFF-189946803F3C}|PasscodeManagement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChooseMenu.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\PasscodeManagement\\ChooseMenu.cs",
+              "RelativeDocumentMoniker": "ChooseMenu.cs",
+              "ToolTip": "E:\\PROJECTS\\C#\\PasscodeManagement\\ChooseMenu.cs",
+              "RelativeToolTip": "ChooseMenu.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:18:38.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseMenu.cs [Design]",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\PasscodeManagement\\ChooseMenu.cs",
+              "RelativeDocumentMoniker": "ChooseMenu.cs",
+              "ToolTip": "E:\\PROJECTS\\C#\\PasscodeManagement\\ChooseMenu.cs [Design]",
+              "RelativeToolTip": "ChooseMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:16:19.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetPasscodeForm.cs [Design]",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\PasscodeManagement\\GetPasscodeForm.cs",
+              "RelativeDocumentMoniker": "GetPasscodeForm.cs",
+              "ToolTip": "E:\\PROJECTS\\C#\\PasscodeManagement\\GetPasscodeForm.cs [Design]",
+              "RelativeToolTip": "GetPasscodeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:15:22.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\PasscodeManagement\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "UserRegistration.cs",
+              "ToolTip": "E:\\PROJECTS\\C#\\PasscodeManagement\\UserRegistration.cs",
+              "RelativeToolTip": "UserRegistration.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:14:26.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistration.cs [Design]",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\PasscodeManagement\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "UserRegistration.cs",
+              "ToolTip": "E:\\PROJECTS\\C#\\PasscodeManagement\\UserRegistration.cs [Design]",
+              "RelativeToolTip": "UserRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:13:39.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\PasscodeManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\PROJECTS\\C#\\PasscodeManagement\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADgv0YAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:09:16.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\PROJECTS\\C#\\PasscodeManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\PROJECTS\\C#\\PasscodeManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:00:42.755Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

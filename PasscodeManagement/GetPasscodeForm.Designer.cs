@@ -45,8 +45,8 @@ namespace PasscodeManagement
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(32, 59);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(132, 17);
-            this.label1.TabIndex = 0;
+            this.label1.Size = new System.Drawing.Size(127, 16);
+            this.label1.TabIndex = 4;
             this.label1.Text = "Registered Email ID";
             // 
             // label2
@@ -54,8 +54,8 @@ namespace PasscodeManagement
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(135, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(128, 17);
-            this.label2.TabIndex = 1;
+            this.label2.Size = new System.Drawing.Size(121, 16);
+            this.label2.TabIndex = 5;
             this.label2.Text = "Get your passcode";
             // 
             // txtregisteredsetemail
@@ -63,14 +63,14 @@ namespace PasscodeManagement
             this.txtregisteredsetemail.Location = new System.Drawing.Point(170, 56);
             this.txtregisteredsetemail.Name = "txtregisteredsetemail";
             this.txtregisteredsetemail.Size = new System.Drawing.Size(205, 22);
-            this.txtregisteredsetemail.TabIndex = 2;
+            this.txtregisteredsetemail.TabIndex = 0;
             // 
             // btnfetchedpass
             // 
             this.btnfetchedpass.Location = new System.Drawing.Point(170, 112);
             this.btnfetchedpass.Name = "btnfetchedpass";
             this.btnfetchedpass.Size = new System.Drawing.Size(122, 28);
-            this.btnfetchedpass.TabIndex = 3;
+            this.btnfetchedpass.TabIndex = 2;
             this.btnfetchedpass.Text = "Fetch passcode";
             this.btnfetchedpass.UseVisualStyleBackColor = true;
             this.btnfetchedpass.Click += new System.EventHandler(this.button1_Click);
@@ -80,8 +80,8 @@ namespace PasscodeManagement
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Location = new System.Drawing.Point(167, 159);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(89, 17);
-            this.linkLabel1.TabIndex = 4;
+            this.linkLabel1.Size = new System.Drawing.Size(84, 16);
+            this.linkLabel1.TabIndex = 3;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Back to login";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
@@ -92,7 +92,7 @@ namespace PasscodeManagement
             this.txtfetchedpass.Name = "txtfetchedpass";
             this.txtfetchedpass.ReadOnly = true;
             this.txtfetchedpass.Size = new System.Drawing.Size(205, 22);
-            this.txtfetchedpass.TabIndex = 5;
+            this.txtfetchedpass.TabIndex = 1;
             // 
             // errorProvider1
             // 
@@ -110,6 +110,7 @@ namespace PasscodeManagement
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "GetPasscodeForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "GetPasscodeForm";
             this.Load += new System.EventHandler(this.GetPasscodeForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
